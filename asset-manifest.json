@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactTutorial/static/css/main.abd64e84.css",
-    "main.js": "/ReactTutorial/static/js/main.24bb503f.js",
+    "main.js": "/ReactTutorial/static/js/main.f0c73a99.js",
     "static/js/787.0c3f432a.chunk.js": "/ReactTutorial/static/js/787.0c3f432a.chunk.js",
     "index.html": "/ReactTutorial/index.html",
     "main.abd64e84.css.map": "/ReactTutorial/static/css/main.abd64e84.css.map",
-    "main.24bb503f.js.map": "/ReactTutorial/static/js/main.24bb503f.js.map",
+    "main.f0c73a99.js.map": "/ReactTutorial/static/js/main.f0c73a99.js.map",
     "787.0c3f432a.chunk.js.map": "/ReactTutorial/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.24bb503f.js"
+    "static/js/main.f0c73a99.js"
   ]
 }
